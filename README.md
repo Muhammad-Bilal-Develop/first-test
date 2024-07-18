@@ -1,3 +1,3 @@
 # first-test
-this is my first repository
-aurthor  -  Bilal
+this is my first repository <br>
+aurthor  -  Bilal Rafique
